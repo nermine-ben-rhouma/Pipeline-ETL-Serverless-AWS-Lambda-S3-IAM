@@ -1,0 +1,1 @@
+{"statusCode": 200, "body": "{\"input_file\": \"raw/transactions.csv\", \"output_file\": \"processed/year=2026/month=04/day=25/transactions_clean.csv.gz\", \"rows_after_cleaning\": 19, \"processed_at\": \"2026-04-25T14:03:39.407671Z\"}"}

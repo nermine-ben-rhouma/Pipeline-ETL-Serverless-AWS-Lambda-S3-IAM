@@ -1,0 +1,10 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": { "name": "tp-ing4-ds-s3" },
+        "object": { "key": "raw/transactions.csv" }
+      }
+    }
+  ]
+}
